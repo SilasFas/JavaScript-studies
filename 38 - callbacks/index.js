@@ -1,8 +1,8 @@
 // callback = a function passed as an argument to another function.
 
-// Ensures that a fucntion is not going to run before a task is complited.
+// Ensures that a function is not going to run before a task is complited.
 // It helps us develop asynchrnous code.
-// (When one function has to wait for another fucntion) 
+// (When one function has to wait for another function) 
 // that helps us avoid errros and potential problems
 // Ex. Wait for a file to load
 
@@ -20,9 +20,9 @@ function sum(x, y) {
 sum(2, 3, displayDOM)
 
 
-function sum(x, y, CallingThefunctuion) {
+function sum(x, y, CallingThefunction) {
     let result = x + y
-    CallingThefunctuion(result)
+    CallingThefunction(result)
 }
 
 /*
