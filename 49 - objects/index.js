@@ -1,6 +1,6 @@
 // object = A gruop of properties and methods.
 //          properties = what an object has
-//          methods = what an object cab do
+//          methods = what an object can do
 //          use . to access properties/methods
 
 const car1 = {
