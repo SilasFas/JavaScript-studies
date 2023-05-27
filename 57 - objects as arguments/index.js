@@ -21,5 +21,5 @@ function displayInfo(car) {
 }
 
 function changeColor(car, color) {
-   car.color = color
+    car.color = color
 }
