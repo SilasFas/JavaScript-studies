@@ -14,10 +14,8 @@ console.log("THIS IS synchronous")
 console.log("END")
 
 
-
 console.log("")
 console.log("")
-
 
 
 // asynchronous code
