@@ -1,4 +1,4 @@
-// addEventListener (event, fucntion, useCapture)
+// addEventListener (event, function, useCapture)
 // You can add many event handlers to one element
 // Even the same event that invokes different functions
 
