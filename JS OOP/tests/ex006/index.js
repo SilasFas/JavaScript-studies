@@ -48,4 +48,4 @@ function comparareInstObj(objeto, classe) {
             console.log('negativo')
         }
     } 
-comparareInstObj(naruto, Ninja)
+comparareInstObj(ninja1, Ninja)
