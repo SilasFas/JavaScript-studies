@@ -60,25 +60,3 @@ function updateTime() {
     }
     timeDisplay.textContent = `${hours}:${mins}:${secs}`
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
